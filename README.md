@@ -1,5 +1,6 @@
-# 💫 About Me:
-😎 Aspiring software engineer with a passion for exploring the intersection of computer science and human intelligence/behavior.<br>📫Reach me via [email](mailto:pravanshu.pati1608@gmail.com) or add on [LinkedIn](https://www.linkedin.com/in/pravanshu-pati-/).
+# Hi, how are you?👋
+- 😎 Aspiring software engineer with a passion for exploring the intersection of computer science and human intelligence/behavior.
+- 📫 Reach me via [email](mailto:pravanshu.pati1608@gmail.com) or add on [LinkedIn](https://www.linkedin.com/in/pravanshu-pati-/).
 
 
 ## 🌐 Socials:
