@@ -1,11 +1,13 @@
 <p align="center">
 <a href="https://github.com/Pravanshu1608">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Pravanshu+Pati;Student+%7C+Aspiring+Software+Engineer;AI+%7C+Computer+Vision+%7C+Deep+Learning" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Pravanshu+Pati;Student;AI+%7C+Computer+Vision+%7C+Deep+Learning" alt="Typing SVG" />
 </a>
 <br/>
 
 # Hi, how are you?👋
 - 😎 Aspiring software engineer with a passion for exploring the intersection of computer science and human intelligence/behavior.
+- 📖 Pursuing B.tech in Computer Science and Engineering @ [VIT Bhopal](https://vitbhopal.ac.in/).
+- 💡 Open to collaborating on projects and innovative ideas. 
 - 📫 Reach me via [email](mailto:pravanshu.pati1608@gmail.com) or add on [LinkedIn](https://www.linkedin.com/in/pravanshu-pati-/).
 
 
