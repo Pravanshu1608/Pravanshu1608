@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://github.com/Pravanshu1608">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Pravanshu+Pati;Student;AI+%7C+Computer+Vision+%7C+Deep+Learning" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Pravanshu+Pati;Computer+Science+Student;AI+%7C+Computer+Vision+%7C+Deep+Learning" alt="Typing SVG" />
 </a>
 <br/>
 
